@@ -1,0 +1,4 @@
+*.log
+!vip.log
+testing_git/
+text.txt
